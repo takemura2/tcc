@@ -3,7 +3,7 @@
 
 int main(int argc, char **argv) {
   if (argc != 2) {
-    fprintf(stderr, "引数の個数が正しくありません5\n");
+    fprintf(stderr, "引数の個数が正しくありません6\n");
     return 1;
   }
 
