@@ -3,7 +3,8 @@
 
 int main(int argc, char **argv) {
   if (argc != 2) {
-    fprintf(stderr, "引数の個数が正しくありません8\n");
+    fprintf(stderr, "引数の個数が正しくありません9\n");
+    printf("行追加by2");
     return 1;
   }
 
