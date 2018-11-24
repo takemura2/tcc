@@ -3,7 +3,8 @@
 
 int main(int argc, char **argv) {
   if (argc != 2) {
-    fprintf(stderr, "引数の個数が正しくありません8\n");
+    fprintf(stderr, "引数の個数が正しくありません10\n");
+    //change by 1
     return 1;
   }
 
