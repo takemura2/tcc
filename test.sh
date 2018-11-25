@@ -14,7 +14,7 @@ try() {
   fi
 }
 
-try 0 0
-try 42 42
+try 7 5+2
+try 3 10-7
 
 echo OK
